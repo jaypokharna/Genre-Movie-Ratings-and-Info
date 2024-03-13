@@ -15,7 +15,7 @@ const Footer = () => {
           <li className="menuItem">Privacy-Policy</li>
           <li className="menuItem">About</li>
           <li className="menuItem">Blog</li>
-          <li className="menuItem">FAQ</li>
+          <li className="menuItem" >FAQ</li>
         </ul>
         <div className="infoText">
           Welcome to our one-stop hub for movie enthusiasts! Explore
